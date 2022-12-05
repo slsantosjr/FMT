@@ -1,8 +1,9 @@
 # FMT
 ### Olá, Eu sou o Sérgio 🖐️
-Estou realizando o curso do FMT para me tornar um fullstack! Estou realizando esse curso e em paralelo a Tech Academy da Startse. 
+Estou realizando o curso do FMT para me tornar um fullstack! Estou realizando esse curso e em paralelo a Tech Academy da Startse.
+Criei esse repositório para postar os exercícios que vamos realizar durante a formação, quem sabe também possa ajudar os demais que estão realizando a formação junto comigo! Como estou iniciando, talvez as soluções que eu tenha definido aqui pode ser que nÃo sejam as mais rápidas ou simples! Caso tenha um jeito mais fácil de resolver os exercícios agradeço a contribuição de todos!
+
 Abaixo algumas das ferramentas que utilizo, OS e stacks:
- conhecimento básico:
  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:slsantosjr@gmail.com)
 [![Site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.lupaprojetos.com/)
